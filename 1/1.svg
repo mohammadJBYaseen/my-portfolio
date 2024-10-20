@@ -1,0 +1,12 @@
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.g0_1{fill:#293E49;}
+.g1_1{fill:none;stroke:#808080;stroke-width:1.527;stroke-miterlimit:10;}
+</style>
+</defs>
+<path d="M0 0H308.6V1210H0V0Z" class="g0_1"/>
+<path d="M0 66H308.6V1152.6H0V66Z" class="g0_1"/>
+<path d="M341.5 514.7h56.1" class="g1_1"/>
+<path d="M0 1177H308.6v22H0v-22Z" class="g0_1"/>
+</svg>
